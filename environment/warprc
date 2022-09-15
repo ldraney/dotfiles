@@ -1,0 +1,16 @@
+ansibleBase:~/github/ansible_desktop_setup/roles/base/tasks
+ansibleDisplay:~/github/ansible_desktop_setup/roles/displayCustomizations/tasks
+ansibleDocker:~/github/ansible_desktop_setup/roles/docker/tasks
+ansibleDotfiles:~/github/ansible_desktop_setup/roles/dotfiles/tasks
+ansible:~/github/ansible_desktop_setup
+autoWindow:/mnt/hgfs/VMShare/AutomateWindows
+baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
+concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
+dotfiles:~/github/dotfiles
+github:~/github
+sensitive:~/github/sensitive
+ssh_keys:~/github/ssh_keys
+tv:~/recon/tv
+vmshare:/mnt/hgfs/VMShare
+vpn:~/recon/vpn
+zshCustom:~/.oh-my-zsh/custom/plugins
