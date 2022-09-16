@@ -8,6 +8,8 @@ baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
 concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
 dotfiles:~/github/dotfiles
 github:~/github
+gruvboxCustom:/usr/share/regolith-look/gruvboxCustom
+regolith-look:/usr/share/regolith-look
 sensitive:~/github/sensitive
 ssh_keys:~/github/ssh_keys
 tv:~/recon/tv
