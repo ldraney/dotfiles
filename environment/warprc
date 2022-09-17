@@ -3,6 +3,7 @@ ansibleDisplay:~/github/ansible_desktop_setup/roles/displayCustomizations/tasks
 ansibleDocker:~/github/ansible_desktop_setup/roles/docker/tasks
 ansibleDotfiles:~/github/ansible_desktop_setup/roles/dotfiles/tasks
 ansible:~/github/ansible_desktop_setup
+ansibleLook:~/github/ansible_desktop_setup/look
 autoWindow:/mnt/hgfs/VMShare/AutomateWindows
 baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
 concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
