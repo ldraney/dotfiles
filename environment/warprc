@@ -9,6 +9,7 @@ concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
 dotfiles:~/github/dotfiles
 github:~/github
 gruvboxCustom:/usr/share/regolith-look/gruvboxCustom
+init.vim:~/.config/nvim
 regolith-look:/usr/share/regolith-look
 sensitive:~/github/sensitive
 ssh_keys:~/github/ssh_keys
