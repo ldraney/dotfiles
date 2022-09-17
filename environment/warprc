@@ -18,3 +18,4 @@ tv:~/recon/tv
 vmshare:/mnt/hgfs/VMShare
 vpn:~/recon/vpn
 zshCustom:~/.oh-my-zsh/custom/plugins
+zshSyntaxHighlighting:~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting

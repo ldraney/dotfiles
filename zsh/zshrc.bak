@@ -8,6 +8,8 @@ export ZSH="$HOME/.oh-my-zsh"
 
 ZSH_THEME="cloud"
 
+#export ZSH_HIGHLIGHT_STYLES[comment]='none'
+#${ZSH_HIGHLIGHT_STYLES[comment]:=fg=black,bold}
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -95,14 +97,3 @@ findwordexact() {
 findword() {
     find . -exec grep -i -l -s $1 {} \;
 }
-
-
-#```zsh
-#ZSH_HIGHLIGHT_STYLES[comment]='bg=red'
-#```
-#zle_highlight=(none)
-#ZSH_HIGHLIGHT_STYLES[root]='bg=red'
-#: ${ZSH_HIGHLIGHT_STYLES[comment]:='bg=purple'}
-#ZSH_HIGHLIGHT_HIGHLIGHTERS+=(acme)
-
-
