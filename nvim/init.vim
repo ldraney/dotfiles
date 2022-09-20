@@ -141,7 +141,7 @@ set splitbelow
 set splitright
 
 set nocindent
-set showbreak=>\
+set showbreak=>>
 "set nosmartindent
 "set noautoindent
 "set indentexpr=
