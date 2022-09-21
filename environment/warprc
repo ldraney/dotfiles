@@ -5,9 +5,11 @@ ansibleDotfiles:~/github/ansible_desktop_setup/roles/dotfiles/tasks
 ansible:~/github/ansible_desktop_setup
 ansibleLook:~/github/ansible_desktop_setup/look
 ansibleRecon:~/github/ansible_desktop_setup/roles/recon/tasks
+ansibleTvp:~/github/ansible_desktop_setup/roles/tvp/tasks
 autoWindow:/mnt/hgfs/VMShare/AutomateWindows
 baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
 concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
+dev-setup:~/recon/tv/dev-setup
 dotfiles:~/github/dotfiles
 github:~/github
 gruvboxCustom:/usr/share/regolith-look/gruvboxCustom
@@ -15,6 +17,7 @@ init.vim:~/.config/nvim
 regolith-look:/usr/share/regolith-look
 sensitive:~/github/sensitive
 ssh_keys:~/github/ssh_keys
+tvplatform:~/recon/tv/tvplatform
 tv:~/recon/tv
 vmshare:/mnt/hgfs/VMShare
 vpn:~/recon/vpn
