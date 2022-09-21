@@ -5,7 +5,11 @@ ansibleDotfiles:~/github/ansible_desktop_setup/roles/dotfiles/tasks
 ansible:~/github/ansible_desktop_setup
 ansibleLook:~/github/ansible_desktop_setup/look
 ansibleRecon:~/github/ansible_desktop_setup/roles/recon/tasks
+<<<<<<< HEAD
 ansibleTvp:~/github/ansible_desktop_setup/roles/tvp/tasks
+=======
+ansibleReconVpn:~/github/ansible_desktop_setup/roles/reconVpn/tasks
+>>>>>>> ead1896 (recon git repos symlinks)
 autoWindow:/mnt/hgfs/VMShare/AutomateWindows
 baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
 concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
