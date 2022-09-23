@@ -7,3 +7,4 @@
 	;name = lucas
 [safe]
 	directory = /mnt/hgfs/VMShare/AutomateWindows
+	directory = /mnt/hgfs/VMShare/Recon/tv/dev-setup
