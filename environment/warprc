@@ -13,6 +13,7 @@ atlas:~/pillar/atlas
 autoWindow:/mnt/hgfs/VMShare/AutomateWindows
 baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
 concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
+customCommands:~/.customCommands
 dev-setup:~/recon/tv/dev-setup
 dotfiles:~/github/dotfiles
 >>>>>>> ead1896 (recon git repos symlinks)
