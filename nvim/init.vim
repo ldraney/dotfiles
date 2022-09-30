@@ -23,7 +23,8 @@ autocmd BufWinEnter * silent! loadview
 
 
 call plug#begin()
-Plug 'easymotion/vim-easymotion'
+"Plug 'easymotion/vim-easymotion'
+Plug 'christoomey/vim-tmux-navigator'
 "
 "LSP stuff
 "Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -526,4 +527,6 @@ set wildignore+=*/.vim/*
 
 "Rename tmux window tab after current file with path
 "autocmd BufReadPost,FileReadPost,BufNewFile * call system("tmux rename-window " . expand("%:t"))
+
+
 let g:netrw_bufsettings = 'noma nomod nu nobl nowrap ro'
