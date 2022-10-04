@@ -1,19 +1,22 @@
 =======
+acropolis:~/pillar/acropolis
 ansibleBase:~/github/ansible_desktop_setup/roles/base/tasks
+ansible_desktop_setup:~/github/ansible_desktop_setup
 ansibleDisplay:~/github/ansible_desktop_setup/roles/displayCustomizations/tasks
 ansibleDocker:~/github/ansible_desktop_setup/roles/docker/tasks
 ansibleDotfiles:~/github/ansible_desktop_setup/roles/dotfiles/tasks
-ansible:~/github/ansible_desktop_setup
 ansibleLook:~/github/ansible_desktop_setup/look
 ansibleRecon:~/github/ansible_desktop_setup/roles/recon/tasks
 ansibleReconVpn:~/github/ansible_desktop_setup/roles/reconVpn/tasks
 ansibleTvp:~/github/ansible_desktop_setup/roles/tvp/tasks
+athena:~/pillar/athena
 atlasAppBackendWorkers:~/pillar/atlas/app/backend/workers
 atlas:~/pillar/atlas
 autoWindow:/mnt/hgfs/VMShare/AutomateWindows
 baseRoleAnsible:~/github/ansible_desktop_setup/roles/base/tasks
 concurrentRoleAnsible:~/github/ansible_desktop_setup/roles/concurrent/tasks
 customCommands:~/.customCommands
+darkSkyTest:~/pillar/atlas/tests/workers
 dev-setup:~/recon/tv/dev-setup
 dotfiles:~/github/dotfiles
 >>>>>>> ead1896 (recon git repos symlinks)
@@ -26,6 +29,7 @@ regolith-look:/usr/share/regolith-look
 sanctum:~/pillar/sanctum
 sensitive:~/github/sensitive
 ssh_keys:~/github/ssh_keys
+timeseries:~/pillar/atlas/app/database/timeseries
 tvplatform:~/recon/tv/tvplatform
 tv:~/recon/tv
 vmshare:/mnt/hgfs/VMShare
