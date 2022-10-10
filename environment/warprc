@@ -34,5 +34,6 @@ tvplatform:~/recon/tv/tvplatform
 tv:~/recon/tv
 vmshare:/mnt/hgfs/VMShare
 vpn:~/recon/vpn
+windows:/mnt/c/Users/drane
 zshCustom:~/.oh-my-zsh/custom/plugins
 zshSyntaxHighlighting:~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
