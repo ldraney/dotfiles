@@ -99,10 +99,12 @@ findword() {
 #ZSH_HIGHLIGHT_HIGHLIGHTERS+=(acme)
 
 #for pyenv
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
-source $HOME/google-cloud-sdk/completion.zsh.inc
-source $HOME/google-cloud-sdk/path.zsh.inc
+#eval "$(pyenv init -)"
+#eval "$(pyenv virtualenv-init -)"
+#
+#For Google gcloud autocomplete
+#source $HOME/google-cloud-sdk/completion.zsh.inc
+#source $HOME/google-cloud-sdk/path.zsh.inc
 #
 #kubectl autocomplete
-source <(kubectl completion zsh)
+#source <(kubectl completion zsh)
